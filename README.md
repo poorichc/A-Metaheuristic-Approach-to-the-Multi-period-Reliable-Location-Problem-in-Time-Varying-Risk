@@ -10,5 +10,6 @@ This folder contains the python source code for analysing xxxxx
 
 
 ## Figure
+This folder contains all the figures from our research.
 
 ## How to Run the Code:
