@@ -18,8 +18,9 @@ This folder contains the python source code for optimizing multi-period reliable
 This folder contains all data sets.
 
 * Each data file is provided in readable text formats (.csv)
-* Data file contains different 3 data sets, different number of nodes (49, 88, 150) and different risk levels (low, medium, high).
+* Data file contains different 3 data sets (Data_1,Data_2,Data_3), different number of nodes (49, 88, 150) and different risk levels (low, medium, high).
 * Text header contains relevant data on each sample ( Index,	demand,	emerg_cost,	prob_fail, fixed cost,	lat,	lon,	State,	State_cd)
+* For sensitivity analysis, data are in q_sensitivity that contain simulated information from beta distribution.
 
 ## Figure
 This folder contains all the figures from our research.
