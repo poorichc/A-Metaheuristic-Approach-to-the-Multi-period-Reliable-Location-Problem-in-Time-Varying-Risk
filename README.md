@@ -17,3 +17,6 @@ This folder contains all data sets.
 This folder contains all the figures from our research.
 
 ## How to Run the Code:
+* Download the spatial.py, time-series.py, seq.py python scripts from source folder and place them in a directory.
+* Download the sequence text files from data folder and place them in the same directory as the python scripts.
+* Run the scripts spatial.py and time-series.py, then check your directory for the output figures.
