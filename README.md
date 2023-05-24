@@ -32,6 +32,8 @@ This folder contains all the figures from our research.
 * Download the data folder and place them in the same directory as the python scripts.
 ### MIP
 * Run the scripts Reliable_Location_infected-Linear-Multi period.ipynb, then check the output in the python notebook.
+### Convex hull
+* Run the scripts Convex_Hull_Reduction.ipynb by adjusting N value and considering percent area coverage, then use location index number to input in SMC-SA algorithm.
 ### SMC-SA
 * Run the scripts SMCSA_approach.ipynb, then check the output in the python notebook.
 ### Uncertainty analysis
