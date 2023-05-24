@@ -4,8 +4,13 @@ This directory comprises the folders containing the source code, data and figure
 A Metaheuristic Approach to the Multi period Reliable Location Problem in Time Varying-Risk
 ## Source
 This folder contains the python source code for optimizing multi-period reliable location problem:
+> Heuristics.ipynb
 * xxx
+> SMCSA_approach.ipynb
 * xxxx
+> Reliable_Location_infected-Linear-Multi period.ipynb
+* xxxx
+> Sensitivity_analysis.ipynb
 * xxxx
 
 
