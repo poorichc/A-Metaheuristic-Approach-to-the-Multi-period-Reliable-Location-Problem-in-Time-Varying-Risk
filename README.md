@@ -9,7 +9,7 @@ This folder contains the python source code for optimizing multi-period reliable
 > SMCSA_approach.ipynb
 * This python script contains the main SMC-SA algorithm for our metaheuristic optimization.
 > Reliable_Location_infected-Linear-Multi period.ipynb
-* xxxx
+* his python script contains the main MIP formulation using Gurobi.
 > Sensitivity_analysis.ipynb
 * xxxx
 
