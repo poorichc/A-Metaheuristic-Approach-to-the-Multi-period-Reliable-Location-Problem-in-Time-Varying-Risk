@@ -4,6 +4,8 @@ This directory comprises the folders containing the source code, data and figure
 A Metaheuristic Approach to the Multi period Reliable Location Problem in Time Varying-Risk
 ## Source
 This folder contains the python source code for optimizing multi-period reliable location problem:
+> Convex_Hull_Reduction.ipynb
+* This python script contains Convex hull method for searching potential location.
 > Heuristics.ipynb
 * This python script contains the supporting functions for neigborhood search of the SMC-SA algorithm.
 > SMCSA_approach.ipynb
