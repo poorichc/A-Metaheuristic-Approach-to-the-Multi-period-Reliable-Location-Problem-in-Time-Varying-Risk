@@ -5,9 +5,9 @@ A Metaheuristic Approach to the Multi period Reliable Location Problem in Time V
 ## Source
 This folder contains the python source code for optimizing multi-period reliable location problem:
 > Heuristics.ipynb
-* xxx
+* This python script contains the supporting functions for neigborhood search of the SMC-SA algorithm.
 > SMCSA_approach.ipynb
-* xxxx
+* This python script contains the main SMC-SA algorithm for our metaheuristic optimization.
 > Reliable_Location_infected-Linear-Multi period.ipynb
 * xxxx
 > Sensitivity_analysis.ipynb
