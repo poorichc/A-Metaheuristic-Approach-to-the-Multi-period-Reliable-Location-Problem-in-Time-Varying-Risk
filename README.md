@@ -10,6 +10,7 @@ This folder contains the python source code for analysing xxxxx
 This folder contains all data sets.
 
 * Each data file is provided in readable text formats (.csv)
+* Data file contains different 3 data sets, different number of nodes (49, 88, 150) and different risk levels (low, medium, high).
 * Text header contains relevant data on each sample ( Index,	demand,	emerg_cost,	prob_fail, fixed cost,	lat,	lon,	State,	State_cd)
 
 ## Figure
