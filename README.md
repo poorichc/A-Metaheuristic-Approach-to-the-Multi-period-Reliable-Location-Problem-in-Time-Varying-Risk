@@ -3,7 +3,10 @@
 This directory comprises the folders containing the source code, data and figures for the research article:
 A Metaheuristic Approach to the Multi period Reliable Location Problem in Time Varying-Risk
 ## Source
-This folder contains the python source code for analysing xxxxx
+This folder contains the python source code for optimizing multi-period reliable location problem:
+* xxx
+* xxxx
+* xxxx
 
 
 ## Data
