@@ -26,6 +26,11 @@ This folder contains all data sets.
 This folder contains all the figures from our research.
 
 ## How to Run the Code:
-* Download the spatial.py, time-series.py, seq.py python scripts from source folder and place them in a directory.
-* Download the sequence text files from data folder and place them in the same directory as the python scripts.
-* Run the scripts spatial.py and time-series.py, then check your directory for the output figures.
+* Download the Heuristics.ipynb, SMCSA_approach.ipynb, Reliable_Location_infected-Linear-Multi period.ipynb, Sensitivity_analysis.ipynb python scripts from source folder and place them in a directory.
+* Download the data folder and place them in the same directory as the python scripts.
+### MIP
+* Run the scripts Reliable_Location_infected-Linear-Multi period.ipynb, then check the output in the python notebook.
+### SMC-SA
+* Run the scripts SMCSA_approach.ipynb, then check the output in the python notebook.
+### Uncertainty analysis
+* Run the scripts Sensitivity_analysis.ipynb, then check the figure in the python notebook.
