@@ -11,7 +11,7 @@ This folder contains the python source code for optimizing multi-period reliable
 > Reliable_Location_infected-Linear-Multi period.ipynb
 * his python script contains the main MIP formulation using Gurobi.
 > Sensitivity_analysis.ipynb
-* xxxx
+* This python script contains the main driver code for our Uncertainty analysis
 
 
 ## Data
